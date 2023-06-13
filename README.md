@@ -12,7 +12,7 @@
 
 ## 📞 Contact
 
-- <img src="./discord.png" width="20"> MissingNo.#9660
+- <img src="./discord.png" width="20"> gregvido
 - ✉️ gregvido17@gmail.com
 
  
